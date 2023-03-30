@@ -21,9 +21,7 @@ const Page = () => {
 					</p>
 					<p>Namaskar!</p>
 					<p className="text-justify">
-						My name is Bhaskar Rijal and I'm an undergraduate computer science student based in Jhapa. I enjoy developing
-						web applications and, in my free time, I like to delve into the theories of space physics and spectroscopy.
-						When I'm not coding or studying, I'm usually listening to heavy rock and heavy metal and playing guitar.
+						I am a computer Science student at the Institute of Science and Technology (IOST) at Tribhuvan University. In addition to my studies, I am also a Chief Finance Officer at Linkbinary. My passion for technology has driven me to learn new things have led me to pursue a career in the Computer Science field.
 					</p>
 				</div>
 				<Image
