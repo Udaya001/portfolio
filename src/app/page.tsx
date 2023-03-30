@@ -20,7 +20,7 @@ const Page = () => {
 						Student	| CFO | <span className="font-bold">LinkBinary</span>
 					</p>
 					<p className="text-justify">
-						What's up, folks? The name's Udaya Ram Sharma, and I'm a student at the Institute of Science and Technology (IOST), Tribhuvan University. Hailing from Jhapa, I'm all about the study of data science and machine learning. And let me tell you, nothing gets my adrenaline pumping like exploring the wild frontiers of time, space, and multiverses. I'm a passionate learner with an insatiable thirst for knowledge, and I'm always on the lookout for new ways to broaden my horizons in these fields.
+						Greetings! I'm Udaya Ram Sharma, a student at the Institute of Science and Technology (IOST), Tribhuvan University. I'm all about the power of data science and machine learning, and I'm always on the lookout for new ways to push the boundaries of what's possible. But, let's be real, there's also something pretty dope about exploring the mysteries of time, space, and multiverses. I'm a curious learner, and I'm not afraid to take on new challenges and expand my knowledge in these fields. So, let's get to work and make some awesome stuff happen!
 					</p>
 				</div>
 				<Image
@@ -39,7 +39,7 @@ const Page = () => {
 					B+VE
 				</div>
 				<div className="px-2 text-sm rounded-md text-primary bg-primary/10" aria-label="Height: 5 feet 7 inches">
-					<span>5'7</span>
+					<span>5'8</span>
 				</div>
 			</div>
 
