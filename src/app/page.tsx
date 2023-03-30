@@ -21,7 +21,7 @@ const Page = () => {
 					</p>
 					<p>Namaskar!</p>
 					<p className="text-justify">
-						I am a computer Science student at the Institute of Science and Technology (IOST) at Tribhuvan University. In addition to my studies, I am also a Chief Finance Officer at Linkbinary. My passion for technology has driven me to learn new things have led me to pursue a career in the Computer Science field.
+						What's up, folks? The name's Udaya Ram Sharma, and I'm a student at the Institute of Science and Technology (IOST), Tribhuvan University. Hailing from Jhapa, I'm all about the study of data science and machine learning. And let me tell you, nothing gets my adrenaline pumping like exploring the wild frontiers of time, space, and multiverses. I'm a passionate learner with an insatiable thirst for knowledge, and I'm always on the lookout for new ways to broaden my horizons in these fields.
 					</p>
 				</div>
 				<Image
