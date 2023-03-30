@@ -17,7 +17,7 @@ const Page = () => {
 						Udaya Ram <span className="text-primary">Sharma</span>
 					</h1>
 					<p>
-						CFO | <span className="font-bold">LinkBinary</span>
+						Student	| CFO | <span className="font-bold">LinkBinary</span>
 					</p>
 					<p className="text-justify">
 						What's up, folks? The name's Udaya Ram Sharma, and I'm a student at the Institute of Science and Technology (IOST), Tribhuvan University. Hailing from Jhapa, I'm all about the study of data science and machine learning. And let me tell you, nothing gets my adrenaline pumping like exploring the wild frontiers of time, space, and multiverses. I'm a passionate learner with an insatiable thirst for knowledge, and I'm always on the lookout for new ways to broaden my horizons in these fields.

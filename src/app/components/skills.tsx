@@ -6,6 +6,11 @@ const Skills = () => {
             name: 'HTML',
             description: 'Unconscious Competence'
         },
+        {
+            name: 'System Development with C',
+            description: 'Unconscious Competence'
+        },
+
     ]
 
     return (
