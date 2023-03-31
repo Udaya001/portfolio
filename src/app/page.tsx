@@ -72,7 +72,7 @@ const Page = () => {
 			</div>
 
 			<p className="text-xs">
-				{'Udaya Ram Sharma' + new Date().getFullYear()}, <a href='https://github.com/bhaskarrijal/bhaskarrijal-min' target='_blank' className='italic underline text-primary'>edit this site</a>
+				{'Udaya Ram Sharma ' + new Date().getFullYear()}, <a href='https://github.com/bhaskarrijal/bhaskarrijal-min' target='_blank' className='italic underline text-primary'>edit this site</a>
 			</p>
 		</div>
 	);
