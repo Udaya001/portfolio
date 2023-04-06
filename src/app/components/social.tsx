@@ -12,15 +12,15 @@ const Social = () => {
         },
         {
             name: 'LinkedIn',
-            link: 'https://linkedin.com/in/udayaramsharma',
+            link: 'https://www.linkedin.com/in/udaya-ram-sharma-a7303b219/',
         },
         {
             name: 'Instagram',
-            link: 'https://instagram.com/iamudaya',
+            link: 'https://www.instagram.com/i_am_udaya/',
         },
         {
             name: 'Facebook',
-            link: 'https://facebook.com/udayatimsina',
+            link: 'https://www.facebook.com/udaya.sharma.90',
         },
     ]
 
